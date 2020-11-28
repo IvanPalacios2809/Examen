@@ -1,0 +1,3 @@
+
+ Nombre del elemento:	Ra	 Simbolo: 	Ra	 Numero Atomico	 1	 Masa:	 1.0	 Radio:	 1.0
+ Nombre del elemento:Hola	 Simbolo: Ho	 Numero Atomico 1	 Masa:1.0	 Radio:1.0
